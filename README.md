@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raj Khatri</h1>
+<h1 align="center">Hi 👋, I'm Raj </h1>
 <h3 align="center">A Passionate Full-Stack Developer & AI/ML Enthusiast</h3>
 <p align="center">
   <a href="https://linkedin.com/in/raj-khatri-583a02333" target="blank">
