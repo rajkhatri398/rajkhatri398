@@ -17,7 +17,7 @@
 ### 🔥 About Me
 - 💻 **Full-Stack Developer** with expertise in building scalable web applications.
 - 🤖 **AI/ML Enthusiast** leveraging cutting-edge technologies to solve real-world problems.
-- 🌱 Constantly learning and exploring **cloud computing, DevOps, and automation**.
+- 🌱 Constantly learning and exploring **cloud computing, Problem Solving, and automation**.
 - 🚀 Passionate about **open-source contributions** and **tech communities**.
 
 ---
@@ -42,7 +42,6 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
 #### **AI/ML & Data Science**
@@ -58,7 +57,6 @@
 #### **DevOps & Tools**
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"/>
