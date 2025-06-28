@@ -63,6 +63,12 @@
 </p>
 
 ---
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=rajkhatri398&theme=onedark&no-frame=true&row=1&column=6" alt="Raj's GitHub Trophies" />
+  </a>
+</p>
 
 ### 📊 GitHub Stats
 
